@@ -1,0 +1,2 @@
+Información cargada: 30000
+Errores de validación: 14951
